@@ -1,0 +1,29 @@
+<html><head>
+    
+    
+
+    <base href="https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/bowmasters/">
+    <title>Bowmasters</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="MobileOptimized" content="960">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui">
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" type="text/css" href="style/index.css" nonce="nDK4DWRLJoqf7mjw9cLs1g">
+
+    <script src="https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js" nonce="nDK4DWRLJoqf7mjw9cLs1g"></script>
+<script src="game.js" nonce="nDK4DWRLJoqf7mjw9cLs1g"></script>
+<script nonce="nDK4DWRLJoqf7mjw9cLs1g">window.addEventListener("load", () => window.runGame());</script>
+<style type="text/css">@font-face {font-family: PassionOne-Bold; src: url(assets/main/fonts/PassionOne-Bold.ttf);}</style><style type="text/css">@font-face {font-family: PT_Sans-Narrow; src: url(assets/main/fonts/PT_Sans-Narrow.ttf);}</style><style type="text/css">@font-face {font-family: PT_Sans-Web-Bold; src: url(assets/main/fonts/PT_Sans-Web-Bold.ttf);}</style><style type="text/css">@font-face {font-family: PT_Sans-Web-Regular; src: url(assets/main/fonts/PT_Sans-Web-Regular.ttf);}</style></head>
+
+
+<body style="touch-action: none; overscroll-behavior: none; user-select: none; width: 1012px; height: 823px;">
+    <div id="game"><canvas width="1180" height="960" style="touch-action: none; width: 1012px; height: 823px; cursor: inherit;"></canvas></div>
+
+
+</body></html>
